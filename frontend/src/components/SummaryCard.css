@@ -1,0 +1,9 @@
+.summary-card {
+  width: 220px;
+  padding: 16px;
+  background:#fff;
+  border-radius:8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+}
+.summary-card h4 { color:#666; margin-bottom:8px; }
+.summary-card h2 { color:#111; }
